@@ -35,14 +35,15 @@ Onde pode me encontrar:
 
 ### DRE no Power BI: Uma solução prática e eficiente
 <img align="right" width="500"  src="https://github.com/vitor-yamada/DRE.PowerBI/blob/main/Imagens/24%20dashboard.png?raw=true">
-Este projeto teve como objetivo simular a criação de uma Demonstração de Resultados do Exercício (DRE) no Power BI a partir de planilhas de Excel como fonte de dados. As planilhas foram carregadas em um banco de dados SQL utilizando a linguagem Python, para posteriormente serem importadas para o Power BI. O foco foi em integrar e transformar os dados para criar um relatório visual e interativo, capaz de apoiar análises financeiras e a tomada de decisões. <br> <br>
+Este projeto teve como objetivo simular a criação de uma Demonstração de Resultados do Exercício (DRE) no Power BI a partir de planilhas de Excel como fonte de dados. O foco foi em integrar e transformar os dados para criar um relatório visual e interativo, capaz de apoiar análises financeiras e a tomada de decisões. <br> <br>
 
-As principais etapas do projeto incluem:  
+Os principais desafios do projeto incluem:  
 
-**• Preparação dos dados:** Utilização de planilhas do Excel como fonte de dados, carregadas em um banco de dados SQL utilizando a linguagem Python;  
-**• Processamento no SQL Server:** Organização e estruturação dos dados para facilitar análises posteriores;  
-**• Importação e transformação no Power BI:** Uso do Power Query para limpeza, transformação e modelagem dos dados;  
-**• Criação de relatórios interativos:** Desenvolvimento de um painel no Power BI, com medidas avançadas para visualizar os resultados de forma clara e eficiente.
+**• Preparação dos dados:** Carregar as planilhas em um banco de dados SQL utilizando Python; <br>   
+
+**• Importação e transformação no Power BI:** Uso do Power Query para limpeza, transformação e modelagem dos dados; <br>
+
+**• Criação do dashboard:** Desenvolvimento de um relatório interativo no Power BI, com medidas avançadas para visualizar os resultados de forma clara e eficiente. <br>
 
 <br>
 
@@ -52,8 +53,8 @@ Este projeto foi desenvolvido com o objetivo de analisar e visualizar o desempen
 
 Principais desafios: 
 
-**• Coleta e entendimento dos dados:** Análise exploratória para identificar estrutura, relacionamentos e abrangência da base de dados; <br>
-**• Limpeza e tratamento:** Processamento para garantir integridade, consistência e qualidade das informações; <br>
-**• Análise descritiva:** Aplicação de estatísticas descritivas para destacar as principais características e tendências dos produtos na base de dados;
-**• Identificação de insights de negócios:** Análise dos produtos com maior impacto no desempenho da empresa ao longo do tempo; <br>
-**• Construção do relatório:** Desenvolvimento de um dashboard dinâmico no Power BI, permitindo uma visualização clara e eficiente dos dados. <br>
+• Coleta e entendimento dos dados;  <br>
+• Análise exploratória; <br>
+• Análise descritiva; <br>
+• Identificação de insights de negócios; <br>
+• Construção do relatório. <br>
