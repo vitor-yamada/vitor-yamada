@@ -45,9 +45,9 @@ Os principais desafios do projeto incluem:
 
 **• Criação do dashboard:** Desenvolvimento de um relatório interativo no Power BI, com medidas avançadas para visualizar os resultados de forma clara e eficiente. <br>
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYjM1N2Q4MzMtMGM4OC00YzUxLWEyYTMtOWMyODgwNTQ3MTUwIiwidCI6IjNlN2FhZjhkLWQyZTAtNGQ3Yy05NWNmLWNjYjhiMTU5ODZlZiJ9&pageName=3a25a87e5ee2f215551d" target="_blank">Clique aqui</a> e acesse o dashboard completo.
-<br>
 <a href="https://github.com/vitor-yamada/DRE.PowerBI" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYjM1N2Q4MzMtMGM4OC00YzUxLWEyYTMtOWMyODgwNTQ3MTUwIiwidCI6IjNlN2FhZjhkLWQyZTAtNGQ3Yy05NWNmLWNjYjhiMTU5ODZlZiJ9&pageName=3a25a87e5ee2f215551d" target="_blank">Clique aqui</a> e acesse o dashboard completo.
 
 <br><br>
 
@@ -61,4 +61,9 @@ Principais desafios:
 • Análise exploratória; <br>
 • Análise descritiva; <br>
 • Identificação de insights de negócios; <br>
-• Construção do relatório. <br>
+• Construção do relatório.
+<br>
+<br>
+<a href="https://github.com/vitor-yamada/AdventureWorksPortifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTJlNzg4M2EtN2E4YS00OTBjLWFjYTEtMjE1MmFmZjdiZWNjIiwidCI6IjNlN2FhZjhkLWQyZTAtNGQ3Yy05NWNmLWNjYjhiMTU5ODZlZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
