@@ -44,8 +44,12 @@ Os principais desafios do projeto incluem:
 **• Importação e transformação no Power BI:** Uso do Power Query para limpeza, transformação e modelagem dos dados; <br>
 
 **• Criação do dashboard:** Desenvolvimento de um relatório interativo no Power BI, com medidas avançadas para visualizar os resultados de forma clara e eficiente. <br>
-
 <br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYjM1N2Q4MzMtMGM4OC00YzUxLWEyYTMtOWMyODgwNTQ3MTUwIiwidCI6IjNlN2FhZjhkLWQyZTAtNGQ3Yy05NWNmLWNjYjhiMTU5ODZlZiJ9&pageName=3a25a87e5ee2f215551d" target="_blank">Clique aqui</a> e acesse o dashboard completo.
+<br>
+<a href="https://github.com/vitor-yamada/DRE.PowerBI" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
 
 ### Análise Financeira e Performance de Produtos - AdventureWorks22
 <img align="right" width="500" src="https://github.com/vitor-yamada/AdventureWorksPortifolio/blob/main/Design/CAPA.png?raw=true">
