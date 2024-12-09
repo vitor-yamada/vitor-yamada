@@ -6,7 +6,7 @@ Sobre mim:
 
 - 🌱 Formado em Ciências Biológicas 
 - 🔭 Experiência prévia nas áreas de Pesquisa, Desenvolvimento e Inovação 
-- 🎲 Habilidades com análise de dados e análise de negócios 
+- 🎲 Formação complementar em análise de dados e análise de negócios 
 - 📊 Meu foco é investigar soluções baseadas em dados e oferecer insights que impactem positivamente o negócio
 
 ##
