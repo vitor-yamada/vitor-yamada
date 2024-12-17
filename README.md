@@ -9,6 +9,8 @@ Sobre mim:
 - 🎲 Formação complementar em análise de dados e análise de negócios 
 - 📊 Meu foco é investigar soluções baseadas em dados e oferecer insights que impactem positivamente o negócio
 
+_contato: `vitor.b.yamada@gmail.com`_
+
 ##
 
 Principais Ferramentas: 
