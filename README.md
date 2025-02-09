@@ -69,3 +69,19 @@ Principais desafios:
 <a href="https://github.com/vitor-yamada/AdventureWorksPortifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTJlNzg4M2EtN2E4YS00OTBjLWFjYTEtMjE1MmFmZjdiZWNjIiwidCI6IjNlN2FhZjhkLWQyZTAtNGQ3Yy05NWNmLWNjYjhiMTU5ODZlZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+
+<br>
+
+### Análise de Market Share: Evolução na participação do mercado de sistemas operacionais móveis
+<img align="right" width="500" src="https://github.com/vitor-yamada/Market-Share-Mobile-OS/blob/main/Imagens/01.png">
+Baseado em um conjunto de dados sobre a participação de empresas no mercado de sistemas operacionais móveis ao longo dos anos (2009-2024), este projeto tem como objetivos explorar e analisar a evolução da participação de empresas neste mercado, comparar as taxas de crescimento ao longo dos anos e compreender o contexto histórico de importante acontecimentos que contribuíram para a dinâmica de participação no mercado de sistemas operacionais móveis do mundo e do Brasil. <br><br>
+
+Principais desafios: 
+
+• Análise exploratória; <br>
+• Scripts de análise; <br>
+• Análise descritiva; <br>
+• Construção do relatório.
+<br>
+<br>
+<a href="https://github.com/vitor-yamada/Market-Share-Mobile-OS" target="_blank">Clique aqui</a> e acesse o repositório no Github.
